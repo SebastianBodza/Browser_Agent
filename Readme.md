@@ -2,6 +2,8 @@
 
 This repository is a practical demo for running browser-native agent workflows with `agent-browser` and modern AI coding assistants like Codex, Claude Code, and GitHub Copilot.
 
+![Browser Agent demo screenshot](assets/readme/bitbasti-home-annotated-01.png)
+
 It shows how to:
 - run real browser interactions from an AI coding agent
 - capture evidence (screenshots, snapshots, text dumps)
