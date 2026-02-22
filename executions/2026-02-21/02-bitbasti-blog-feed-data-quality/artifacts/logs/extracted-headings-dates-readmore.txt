@@ -1,0 +1,15 @@
+          - heading "CVE-2025-55182 (React2Shell) - Real-World Attack Analysis" [ref=e12] [level=2]:
+            - time: December 8, 2025
+          - link "Read more ?" [ref=e19]:
+          - heading "Real-Time TTS Streaming with Orpheus and SNAC on a single RTX 3090" [ref=e20] [level=2]:
+            - time: April 24, 2025
+          - link "Read more ?" [ref=e29] [nth=1]:
+          - heading "From Llama to LLaSA - GRPO with WER and custom repetition penalty" [ref=e30] [level=2]:
+            - time: March 31, 2025
+          - link "Read more ?" [ref=e38] [nth=2]:
+          - heading "Azure and the Bing API Shutdown - No Notice, No API" [ref=e39] [level=2]:
+            - time: March 5, 2025
+          - link "Read more ?" [ref=e45] [nth=3]:
+          - heading "Faster LLMs with Quantization - How to get faster inference times with quantization" [ref=e46] [level=2]:
+            - time: January 17, 2025
+          - link "Read more ?" [ref=e56] [nth=4]:

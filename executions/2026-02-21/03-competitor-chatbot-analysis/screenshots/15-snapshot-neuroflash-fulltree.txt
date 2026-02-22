@@ -1,0 +1,183 @@
+﻿- document:
+  - banner:
+    - link "neuroflash" [ref=e1]:
+      - /url: https://neuroflash.com
+    - navigation:
+      - list:
+        - listitem:
+          - button "Product" [ref=e2]
+        - listitem:
+          - button "Solutions" [ref=e3]
+        - listitem:
+          - link "Pricing" [ref=e4]:
+            - /url: https://neuroflash.com/pricing/
+        - listitem:
+          - button "Resources" [ref=e5]
+        - listitem:
+          - link "Enterprise" [ref=e6]:
+            - /url: https://neuroflash.com/neuroflash-for-marketing-teams-businesses/
+    - menu:
+      - listitem:
+        - menuitem "English" [ref=e7]:
+          - img "English"
+    - list:
+      - listitem:
+        - link "Get a demo" [ref=e8]:
+          - /url: https://neuroflash.com/get-demo/
+      - listitem:
+        - link "Login" [ref=e9]:
+          - /url: https://app.neuroflash.com/login
+      - listitem:
+        - link "Start for free" [ref=e10]:
+          - /url: https://app.neuroflash.com/free
+  - navigation
+  - link "Compare price plans" [ref=e11]:
+    - /url: "#Pricing"
+  - paragraph: The prices we have listed are net prices.
+  - paragraph: "Over 150 leading brands rely on neuroflash for campaigns, sales materials, customer service and more:"
+  - heading "Marketing without neuroflash" [ref=e12] [level=3]
+  - list:
+    - listitem: You're wasting hours with brainstorming and research.
+    - listitem: You have to do a lot of repetitive tasks yourself.
+    - listitem: It's hard to maintain a consistent style.
+    - listitem: You have to make SEO optimizations manually.
+    - listitem: You have to manually revise content over again.
+    - listitem: You have no prediction for the impact of your content.
+  - heading "Marketing with neuroflash" [ref=e13] [level=3]
+  - list:
+    - listitem: Get smart content suggestions from AI.
+    - listitem: Automate time-consuming routine tasks with AI.
+    - listitem: Save your own style for consistent content.
+    - listitem: Get support from AI for SEO optimizations.
+    - listitem: Use efficient AI tools for editing content.
+    - listitem: Predict and optimize content performance with AI.
+  - heading "Your data is safe with us" [ref=e14] [level=2]
+  - paragraph: Secure and GDPR-compliant data processing – trust in the highest data protection with neuroflash.
+  - figure
+  - heading "GDPR-compliant" [ref=e15] [level=3]
+  - paragraph: neuroflash protects your data through secure processing methods and provides tools to help you effectively exercise your GDPR rights.
+  - figure
+  - heading "Data security" [ref=e16] [level=3]
+  - paragraph: At neuroflash, your data is not used to train AI models. You can be assured that your information remains protected.
+  - figure
+  - heading "German servers" [ref=e17] [level=3]
+  - paragraph: neuroflash is a German software that is hosted on servers in Germany. Data is processed in accordance with EU data protection regulations.
+  - heading "Find the right pricing plan for you" [ref=e18] [level=2]
+  - heading "Any questions?" [ref=e19] [level=2]
+  - paragraph: Do you have any further questions? Just write to us in the chat at the bottom right!
+  - button "Are the texts new every time and free of plagiarism?" [ref=e20]
+  - button "In which language does neuroflash generate the texts?" [ref=e21]
+  - button "Do I have to sign a long-term contract?" [ref=e22]
+  - button "What is the technology behind neuroflash?" [ref=e23]
+  - button "Will my personal data be private and secure?" [ref=e24]
+  - button "What happens to my data when I generate AI texts with neuroflash?" [ref=e25]
+  - contentinfo:
+    - link "Logo" [ref=e26]:
+      - /url: https://neuroflash.com
+      - img "Logo"
+    - link "Privacy Settings" [ref=e27]:
+      - /url: "#"
+    - list:
+      - listitem:
+        - text: Product
+        - list:
+          - listitem:
+            - link "Content Generator & Editor" [ref=e28]:
+              - /url: https://neuroflash.com/ai-writer-neuroflash/
+          - listitem:
+            - link "ChatFlash" [ref=e29]:
+              - /url: https://neuroflash.com/chatflash/
+          - listitem:
+            - link "Image Generator" [ref=e30]:
+              - /url: https://neuroflash.com/ai-image-generator/
+          - listitem:
+            - link "PerformanceFlash" [ref=e31]:
+              - /url: https://neuroflash.com/ai-tester-neuroflash/
+          - listitem:
+            - link "Brand Hub" [ref=e32]:
+              - /url: https://neuroflash.com/brand-hub/
+      - listitem:
+        - link "Free AI Tools" [ref=e33]:
+          - /url: https://neuroflash.com/free-ai-tools-no-registration/
+        - list:
+          - listitem:
+            - link "Text Generator" [ref=e34]:
+              - /url: https://neuroflash.com/tools/ai-text-generator/
+          - listitem:
+            - link "Text Summarizer" [ref=e35]:
+              - /url: https://neuroflash.com/tools/free-ai-text-summarizer/
+          - listitem:
+            - link "Rewording Tool" [ref=e36]:
+              - /url: https://neuroflash.com/tools/free-ai-rewording-tool/
+          - listitem:
+            - link "Article Generator" [ref=e37]:
+              - /url: https://neuroflash.com/tools/free-ai-article-generator/
+          - listitem:
+            - link "Paraphrasing Tool" [ref=e38]:
+              - /url: https://neuroflash.com/tools/ai-paraphrasing-tool/
+      - listitem:
+        - text: Resources
+        - list:
+          - listitem:
+            - link "Blog" [ref=e39]:
+              - /url: https://neuroflash.com/hub-page/
+          - listitem:
+            - link "Case Studies" [ref=e40]:
+              - /url: https://neuroflash.com/case-studies/
+          - listitem:
+            - link "Free guides & templates" [ref=e41]:
+              - /url: https://neuroflash.com/white-papers-for-downloading/
+      - listitem:
+        - text: neuroflash
+        - list:
+          - listitem:
+            - link "About Us" [ref=e42]:
+              - /url: https://neuroflash.com/about-us/
+          - listitem:
+            - link "Contact" [ref=e43]:
+              - /url: https://neuroflash.com/contact/
+          - listitem:
+            - link "Our partners" [ref=e44]:
+              - /url: https://neuroflash.com/neuroflash-partner/
+          - listitem:
+            - link "Affiliate Partnership" [ref=e45]:
+              - /url: https://neuroflash.com/affiliate-partners/
+    - list:
+      - listitem:
+        - link "Legal" [ref=e46]:
+          - /url: https://neuroflash.com/legal/
+      - listitem:
+        - link "Terms" [ref=e47]:
+          - /url: https://neuroflash.com/terms/
+      - listitem:
+        - link "Privacy" [ref=e48]:
+          - /url: https://neuroflash.com/privacy-statement/
+    - link "Social Icon" [ref=e49]:
+      - /url: https://www.linkedin.com/company/10568233/admin/feed/posts/
+      - img "Social Icon"
+    - link "Social Icon" [ref=e50] [nth=1]:
+      - /url: https://www.instagram.com/neuroflash_ai/?hl=en
+      - img "Social Icon"
+    - link "Social Icon" [ref=e51] [nth=2]:
+      - /url: https://www.facebook.com/neuroflash/
+      - img "Social Icon"
+    - link "Social Icon" [ref=e52] [nth=3]:
+      - /url: https://twitter.com/Neuro_Flash
+      - img "Social Icon"
+    - link "Social Icon" [ref=e53] [nth=4]:
+      - /url: https://www.youtube.com/channel/UCgE0qMleWj6iZcwS79oISMQ/about
+      - img "Social Icon"
+    - menu:
+      - menuitem "English" [ref=e54] [nth=1]:
+        - img "English"
+      - menuitem "Switch to German" [ref=e55]:
+        - img "German"
+      - menuitem "Switch to Dutch" [ref=e56]:
+        - img "Dutch"
+      - menuitem "Switch to French" [ref=e57]:
+        - img "French"
+      - menuitem "Switch to Italian" [ref=e58]:
+        - img "Italian"
+      - menuitem "Switch to Spanish" [ref=e59]:
+        - img "Spanish"
+  - text: desktop

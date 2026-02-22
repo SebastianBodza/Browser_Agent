@@ -7,11 +7,6 @@ It shows how to:
 - capture evidence (screenshots, snapshots, text dumps)
 - structure outputs and reports
 - reuse shared instructions via `Agent.md` and local skills
-
-## Demo Screenshots
-
-![bitbasti.com annotated home](assets/readme/bitbasti-home-annotated-01.png)
-
 ## What This Project Is
 
 This is an example project for browser automation and research tasks where an AI agent navigates sites step by step, validates results, and stores artifacts.
@@ -196,6 +191,23 @@ These files can be used as reusable behavior profiles for browser-focused tasks.
 3. Use `--auto-connect` with Chrome remote debugging on `9222`; this avoids many repeated blockers (cookie banners, fresh-session friction) and makes interaction more stable.
 4. Interaction quality is not perfect yet: some runs dump too much unnecessary content. A dedicated markdown-oriented text dump mode in `agent-browser` would likely reduce token usage. Until then, targeted `get text` and selective dumps work best.
 5. In this workflow, Playwright MCP server interactions felt noticeably worse than direct `agent-browser` usage.
+
+## Execution Runs and Prompt Library
+
+This repo now includes a reusable run structure under:
+
+- `executions/README.md`
+- `executions/_templates/`
+- `executions/2026-02-21/01-bitbasti-lightmode-warning/`
+- `executions/2026-02-21/02-bitbasti-blog-feed-data-quality/`
+- `executions/prompt-library/`
+
+Each execution folder contains:
+- `prompt.md` (task instructions)
+- `report.md` with explicit `PASS: TRUE/FALSE`
+- `artifacts/` (`screenshots/`, `video/`, `logs/`)
+
+
 
 ## Possible Ideas
 

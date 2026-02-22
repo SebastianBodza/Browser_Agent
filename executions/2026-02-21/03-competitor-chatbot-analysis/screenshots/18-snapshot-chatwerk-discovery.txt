@@ -1,0 +1,4 @@
+﻿- link "Datenschutzerklärung" [ref=e1]
+- button "Alle akzeptieren" [ref=e2]
+- button "Nur essenzielle akzeptieren" [ref=e3]
+- button "Individuelle Datenschutz-Präferenzen" [ref=e4]
